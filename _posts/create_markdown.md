@@ -1,4 +1,7 @@
-
+---
+layout: single
+title: "Markdown 사용법과 mermaid Diagram 예제"
+---
 Markdown Guide : https://www.markdownguide.org/
 아, 그리고 마크다운만으로 표현이 부족하다고 느끼신다면, HTML 태그를 활용하시는 것도 좋습니다.
 
